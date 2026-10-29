@@ -1,0 +1,46 @@
+{
+  "hash": "eaa393fa",
+  "configHash": "97ca0ab1",
+  "lockfileHash": "6270adb9",
+  "browserHash": "1e036b84",
+  "optimized": {
+    "react": {
+      "src": "../../../Google studio streetwear/node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "b27c6e6d",
+      "needsInterop": true
+    },
+    "react-dom": {
+      "src": "../../../Google studio streetwear/node_modules/react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "321d07d0",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../../Google studio streetwear/node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "ed4f12a5",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../../Google studio streetwear/node_modules/react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "fbb3001b",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../../Google studio streetwear/node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "fc9ba8c6",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-KQWTVQ3I": {
+      "file": "chunk-KQWTVQ3I.js"
+    },
+    "chunk-5V4AHSCD": {
+      "file": "chunk-5V4AHSCD.js"
+    }
+  }
+}
